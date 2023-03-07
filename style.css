@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 2px 25% ;
+    background-color: rgb(205, 205, 205);
+}
+
+#negrita{
+    font-weight: bold
+}
+
+#fotos{
+    border: solid 1px transparent;
+    margin: 1px 30px;
+
+}
+
+#foto0{
+    justify-content: space-between;
+    width: 100px;
+    height: 70px;
+}
+
+#foto1{
+    justify-content: space-between;
+    margin: 1px 4px;
+    width: 130px;
+    height: 70px;
+}
+
+#foto2{
+    justify-content: space-between;
+    margin: 1px 4px;
+    width: 120px;
+    height: 70px;
+}
+
+#foto3{
+    justify-content: space-between;
+    margin: 1px 4px;
+    width: 130px;
+    height: 50px;
+}
+
+#foto4{
+    justify-content: space-between;
+    margin: 1px 4px;
+    width: 130px;
+    height: 70px;
+}
+
+#letras{
+    font-size: 33px;
+    font-weight: 800;
+}
+#letras1{
+    font-size: 33px;
+    font-weight: 800;
+}
+
+#recuadro{
+    /* margin: 2% 15% 3%;
+    padding: 4% 11% 3% 3%; */
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+    background-color: rgb(244, 204, 58);
+    border: solid 3px rgb(224, 151, 6);
+    width:400px;
+    height: 50px;
+    padding: 10px 0;
+    margin: 20px auto;
+    letter-spacing: 5px;
+}
+
+#imagen{
+    text-align: center;
+}
